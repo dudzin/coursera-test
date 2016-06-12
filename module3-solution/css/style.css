@@ -1,0 +1,28 @@
+#nav-list{
+	margin: 0;
+}
+
+#nav-list a{
+	margin: 0;
+	padding: 15px;
+	font-size: 1.8em;
+	background-color: #90EE90;
+}
+
+#nav-list a:hover {
+	background-color: #74C365;
+}
+
+#example {
+	padding:0;
+}
+
+div article {
+	background-color: #90EE90;
+}
+
+@media (max-width:767px){
+	#mycontainer {
+		margin: 2%;
+	}
+}
